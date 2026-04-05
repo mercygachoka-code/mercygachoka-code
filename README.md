@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI in education, inclusive learning systems, and EdTech innovations  
 - 🤔 I’m looking for help with advancing research in adaptive learning systems and real-world implementation of AI tools  
 - 💬 Ask me about Artificial Intelligence in education, learning disabilities, and instructional design  
-- 📫 How to reach me: mercy.gachoka@kabarak.ac.ke  
+- 📫 How to reach me: mercy.gachoka@gmail.com 
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m passionate about using technology to create equal learning opportunities for all students  
 
