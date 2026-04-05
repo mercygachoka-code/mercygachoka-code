@@ -1,4 +1,13 @@
 ## Hi there 👋
+- 👋 My name is Mercy Gachoka from Kenya. I am an IT instructor and passionate about leveraging technology for impactful learning  
+- 🔭 I’m currently working on AI solutions to support students with special needs, focusing on accessibility and inclusive learning environments  
+- 🌱 I’m currently learning cybersecurity and exploring its role in securing educational technologies  
+- 👯 I’m looking to collaborate on AI in education, inclusive learning systems, and EdTech innovations  
+- 🤔 I’m looking for help with advancing research in adaptive learning systems and real-world implementation of AI tools  
+- 💬 Ask me about Artificial Intelligence in education, learning disabilities, and instructional design  
+- 📫 How to reach me: mercy.gachoka@kabarak.ac.ke  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I’m passionate about using technology to create equal learning opportunities for all students  
 
 <!--
 **mercygachoka-code/mercygachoka-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
